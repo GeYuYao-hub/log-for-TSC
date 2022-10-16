@@ -1,0 +1,85 @@
+force
+/home/computer/TSC//archives/TSC/Coffee/Coffee
+【2022-10-14 21:05】 Doing: Coffee
+【2022-10-14 21:05】 Defined TensorFlow model graph.
+Test accuracy on legitimate examples: 1.0000
+【2022-10-14 21:05】 启动暴力算法,算法参数如下:
+  XMin = -2.06
+  XMax = 2.18
+  eps = 1.00
+
+【2022-10-14 21:05】 搜索开始
+【2022-10-14 21:13】 搜索结束
+【2022-10-14 21:13】 暴力算法运行结束,数据保存在keypoint/train/eps-1/Coffee
+/home/computer/TSC//archives/TSC/50words/50words
+【2022-10-14 21:13】 Doing: 50words
+【2022-10-14 21:13】 Defined TensorFlow model graph.
+Test accuracy on legitimate examples: 1.0000
+【2022-10-14 21:14】 启动暴力算法,算法参数如下:
+  XMin = -2.35
+  XMax = 5.02
+  eps = 1.00
+
+【2022-10-14 21:14】 搜索开始
+【2022-10-14 21:42】 搜索结束
+【2022-10-14 21:42】 暴力算法运行结束,数据保存在keypoint/train/eps-1/50words
+/home/computer/TSC//archives/TSC/Adiac/Adiac
+【2022-10-14 21:42】 Doing: Adiac
+【2022-10-14 21:42】 Defined TensorFlow model graph.
+Test accuracy on legitimate examples: 1.0000
+【2022-10-14 21:42】 启动暴力算法,算法参数如下:
+  XMin = -1.99
+  XMax = 2.63
+  eps = 1.00
+
+【2022-10-14 21:42】 搜索开始
+【2022-10-14 22:03】 搜索结束
+【2022-10-14 22:03】 暴力算法运行结束,数据保存在keypoint/train/eps-1/Adiac
+/home/computer/TSC//archives/TSC/WordsSynonyms/WordsSynonyms
+【2022-10-14 22:03】 Doing: WordsSynonyms
+【2022-10-14 22:03】 Defined TensorFlow model graph.
+Test accuracy on legitimate examples: 1.0000
+【2022-10-14 22:03】 启动暴力算法,算法参数如下:
+  XMin = -2.26
+  XMax = 5.00
+  eps = 1.00
+
+【2022-10-14 22:03】 搜索开始
+【2022-10-14 23:05】 搜索结束
+【2022-10-14 23:05】 暴力算法运行结束,数据保存在keypoint/train/eps-1/WordsSynonyms
+/home/computer/TSC//archives/TSC/SwedishLeaf/SwedishLeaf
+【2022-10-14 23:05】 Doing: SwedishLeaf
+【2022-10-14 23:05】 Defined TensorFlow model graph.
+Test accuracy on legitimate examples: 1.0000
+【2022-10-14 23:05】 启动暴力算法,算法参数如下:
+  XMin = -3.41
+  XMax = 3.22
+  eps = 1.00
+
+【2022-10-14 23:05】 搜索开始
+【2022-10-14 23:40】 搜索结束
+【2022-10-14 23:40】 暴力算法运行结束,数据保存在keypoint/train/eps-1/SwedishLeaf
+/home/computer/TSC//archives/TSC/ShapesAll/ShapesAll
+【2022-10-14 23:40】 Doing: ShapesAll
+【2022-10-14 23:41】 Defined TensorFlow model graph.
+Test accuracy on legitimate examples: 1.0000
+【2022-10-14 23:41】 启动暴力算法,算法参数如下:
+  XMin = -3.22
+  XMax = 2.82
+  eps = 1.00
+
+【2022-10-14 23:41】 搜索开始
+【2022-10-15 02:35】 搜索结束
+【2022-10-15 02:35】 暴力算法运行结束,数据保存在keypoint/train/eps-1/ShapesAll
+/home/computer/TSC//archives/TSC/Phoneme/Phoneme
+【2022-10-15 02:35】 Doing: Phoneme
+【2022-10-15 02:36】 Defined TensorFlow model graph.
+Test accuracy on legitimate examples: 1.0000
+【2022-10-15 02:36】 启动暴力算法,算法参数如下:
+  XMin = -13.32
+  XMax = 8.09
+  eps = 1.00
+
+【2022-10-15 02:36】 搜索开始
+【2022-10-16 12:40】 搜索结束
+【2022-10-16 12:40】 暴力算法运行结束,数据保存在keypoint/train/eps-1/Phoneme
